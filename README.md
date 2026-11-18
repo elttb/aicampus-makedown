@@ -103,3 +103,7 @@ makedown은 태그 기반의 markup을 단순화 시키기 위해서 나온 방�
 - [파이썬 홈페이지](http://cpdev-forum.netmarble.com/)
 - [http://cpdev-forum.netmarble.com/](http://cpdev-forum.netmarble.com/)
 - <http://cpdev-forum.netmarble.com/>
+
+같은 저장소의 문서는 '상대경로'를 이용해서 접근할 수 있습니다.
+
+- [테스트문서](./dummy/test.md)
