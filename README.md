@@ -120,3 +120,13 @@ makedown은 태그 기반의 markup을 단순화 시키기 위해서 나온 방�
 ```
 
 ![피카츄](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdyT-OT5RoXy75CFf67yDhszpPe26l0vuIW0NorMrZ4Q&s=10)
+
+
+깃허브는 이미지를 복사해도 붙여넣어도 임시로 업로드해서 주소를 만들어 줍니다.
+
+<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/b2980eb1-9d3b-4478-b485-73b15bff4b10" />
+
+내가 가진 이미지도 표시할 수 있습니다.
+같은 저장소에 있다면 상대경로로 표시할 수 있습니다.
+
+![피카츄](
