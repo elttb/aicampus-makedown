@@ -107,3 +107,16 @@ makedown은 태그 기반의 markup을 단순화 시키기 위해서 나온 방�
 같은 저장소의 문서는 '상대경로'를 이용해서 접근할 수 있습니다.
 
 - [테스트문서](./dummy/test.md)
+
+# 이미지(image)
+
+이미지는 링크 앞에 `!` 만 추가하면 됩니다.
+
+단, 주소의 대상이 반드시 이미지여야 합니다. (아니면 엑박이 나옵니다)
+
+내가 가진 이미지, 남이 가진 이미지 모두 표시가 가능합니다.
+```
+![이미지간단설명](이미지주소)
+```
+
+![피카츄](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdyT-OT5RoXy75CFf67yDhszpPe26l0vuIW0NorMrZ4Q&s=10)
